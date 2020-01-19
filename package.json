@@ -2,12 +2,11 @@
   "name": "FirstTimeForEverything",
   "version": "0.1.0",
   "private": true,
-  "descriptions": {
-    "This is for Google Code-In 2019!"
-  }
+  "description": "sad my code no work",
   "repository": {
-    "https://github.com/cyulater123/Google-Code-In.git"
-  }
+    "type": "git",
+    "url": "git://github.com/cyulater123/Google-Code-In.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
